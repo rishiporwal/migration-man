@@ -1,0 +1,48 @@
+{
+    "name": "Migration Man",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.0.10",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.0",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.16",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#ff2121",
+        "#A4E76D",
+        "#ff8135",
+        "#fff609",
+        "#569820",
+        "#5EA821",
+        "#003fad",
+        "#76D7E2",
+        "#8e2ec4",
+        "#a4839f",
+        "#5c406c",
+        "#EFF196",
+        "#d36262",
+        "#000000"
+    ]
+}
